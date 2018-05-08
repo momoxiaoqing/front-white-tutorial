@@ -9,20 +9,21 @@
 * 属性选择器：div\[lang\|="zh"\]
 * 子选择器：div&gt;p
 * 后代选择器：div p
+* 伪类选择器：:before  :after
 
-2、进阶：
-
-* :before  :after
-
-* :nth-of-type\(n\)   :nth-last-of-type\(n\)
+                               :nth-of-type\(n\)   :nth-last-of-type\(n\)
 
 * :active :link :focus :visited :hover
 
 3、优先级
 
-| 选择器 | 权值 |
-| :--- | :--- |
-| !important | 1000 |
+| 优先级 | 选择器 | 权值 |
+| :--- | :--- | :--- |
+| 高 | !important | 1000 |
+|  | 内联 |  |
+|  | ID选择器 |  |
+|  | 类选择器、属性选择器、 |  |
+|  |  |  |
 
 !important
 
