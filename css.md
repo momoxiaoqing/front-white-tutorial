@@ -12,12 +12,15 @@
 
 进阶：
 
-* :before
+* :before  :after
 
-* :after
+* :nth-of-type\(n\)   :nth-last-of-type\(n\)
 
-* :nth-of-type\(n\)
+* :active :link :focus :visited :hover
 
-* 
+* 爱恨原则\(LVHA\)
+
+        a: a:hover
+
 
 
