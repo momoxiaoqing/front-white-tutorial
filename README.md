@@ -6,7 +6,7 @@
 
 * [调试](/diao-shi.md)
 * [html](/html.md)
-* [css](/css)
+* [css](/css.md)
 * [js](/js)
 * 经验分享
 * 常用网站
