@@ -7,6 +7,17 @@
 * 类选择器：.class
 * 元素选择器：div
 * 属性选择器：div\[lang\|="zh"\]
+* 子选择器：div&gt;p
+* 后代选择器：div p
+
+进阶：
+
+* :before
+
+* :after
+
+* :nth-of-type\(n\)
+
 * 
 
 
