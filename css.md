@@ -10,6 +10,8 @@
 * 子选择器：div&gt;p
 * 后代选择器：div p
 
+
+
 2、进阶：
 
 * :before  :after
@@ -18,9 +20,21 @@
 
 * :active :link :focus :visited :hover
 
+
+
 3、优先级
 
-!important &gt; 内联 &gt; \#id &gt; 
+| 选择器 |  |
+| :--- | :--- |
+|  |  |
+
+!important 
+
+ 内联
+
+\#id 
+
+.class \| 属性 \| 伪类
 
 
 
