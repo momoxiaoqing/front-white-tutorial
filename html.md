@@ -30,7 +30,7 @@
 
 * &lt;ul&gt; &lt;li&gt;
 
-* &lt;a&gt; &lt;span&gt; &lt;img&gt;
+* &lt;a&gt; &lt;span&gt; &lt;img&gt; &lt;br&gt; &lt;i&gt;
 
 * &lt;form&gt; &lt;label&gt; &lt;input&gt; &lt;radio&gt; &lt;button&gt; &lt;select&gt; &lt;textarea&gt;  &lt;option&gt;
 
@@ -38,7 +38,9 @@
 
 了解以下：
 
-* &lt;video&gt; &lt;map&gt; &lt;audio&gt;
+* &lt;video&gt; ：视频
+*  &lt;audio&gt;：音频
+* &lt;map&gt; +&lt;area&gt;：HTML &lt;map&gt; 属性 与 &lt;area&gt; 属性一起使用来定义一个图像映射\(一个可点击的链接区域\).
 
 
 
