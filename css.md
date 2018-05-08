@@ -30,19 +30,14 @@
 
 ![](/assets/specifishity1-1.png)
 
----
+权值一样时，后面的样式覆盖前面的。
 
 
 
----
+4、注意：&lt;a&gt;添加伪元素时，应遵循爱恨原则\(LVHA\)
 
----
-
-
-
-
-
-爱恨原则\(LVHA\)
+* a:hover必须在a:link 和a:visited之后
+* a:active必须在a:hover之后
 
 
 
