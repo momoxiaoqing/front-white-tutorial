@@ -10,8 +10,6 @@
 * 子选择器：div&gt;p
 * 后代选择器：div p
 
-
-
 2、进阶：
 
 * :before  :after
@@ -20,23 +18,19 @@
 
 * :active :link :focus :visited :hover
 
-
-
 3、优先级
 
-| 选择器 |  |
+| 选择器 | 权值 |
 | :--- | :--- |
 |  |  |
 
-!important 
+!important
 
- 内联
+内联
 
-\#id 
+\#id
 
 .class \| 属性 \| 伪类
-
-
 
 * 爱恨原则\(LVHA\)
 
