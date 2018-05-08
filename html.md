@@ -52,7 +52,5 @@
 
 1、可以相互转化，改变display属性即可
 
-2、行内元素设置width和padding无效，若要设置，需要将display:inline改成display:inline-block
-
-
+2、行内元素设置width无效，若要设置，需要将display改为inline-block
 
