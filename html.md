@@ -1,4 +1,10 @@
-### 一、各种标签
+### 一、&lt;!DOCTYPE html&gt;
+
+* 所有浏览器都支持 &lt;!DOCTYPE&gt; 声明
+* &lt;!DOCTYPE&gt; 声明不是 HTML 标签；它是指示 web 浏览器关于页面使用哪个 HTML 版本进行编写的指令。
+* &lt;!DOCTYPE&gt; 声明必须是 HTML 文档的第一行，位于 &lt;html&gt; 标签之前。
+
+### 二、各种标签
 
 1、根元素：&lt;html&gt;  一个HTML文档的根（顶级元素）
 
@@ -42,7 +48,7 @@
 * &lt;audio&gt;：音频
 * &lt;map&gt; +&lt;area&gt;：HTML &lt;map&gt; 属性 与 &lt;area&gt; 属性一起使用来定义一个图像映射\(一个可点击的链接区域\).
 
-### 二、块元素&行内元素
+### 三、块元素&行内元素
 
 块元素：占据其父元素（容器）的整个空间，因此创建了一个“块”，即占整行，如&lt;div&gt; &lt;h1&gt;-&lt;h6&gt; &lt;p&gt; &lt;ul&gt; &lt;li&gt;等；
 
