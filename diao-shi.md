@@ -4,6 +4,8 @@
 
 2、安装：[WebStorm官方下载地址](https://www.jetbrains.com/webstorm/)
 
+3、破解方法：[https://blog.csdn.net/caixiajia/article/details/52411126](https://blog.csdn.net/caixiajia/article/details/52411126)
+
 3、WebStorm快捷键
 
 * tab键的使用；
