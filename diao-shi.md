@@ -2,11 +2,11 @@
 
 1、常用编辑器有WebStorm、Sublime、VS Code等，推荐WebStorm，因为功能比较强大，配置少。
 
-2、安装：[WebStorm官方下载地址](https://www.jetbrains.com/webstorm/)
+2、WebStorm安装：[WebStorm官方下载地址](https://www.jetbrains.com/webstorm/)
 
-3、破解方法：[https://blog.csdn.net/caixiajia/article/details/52411126](https://blog.csdn.net/caixiajia/article/details/52411126)
+3、WebStorm破解方法：[https://blog.csdn.net/caixiajia/article/details/52411126](https://blog.csdn.net/caixiajia/article/details/52411126)
 
-3、WebStorm快捷键
+4、WebStorm快捷键
 
 * tab键的使用；
 * Ctrl + D  复制本行；
@@ -17,7 +17,7 @@
 * Ctrl + Shift +/  多行注释；
 * .......
 
-2、WebStorm设置如何让局域网内其他设备访问
+5、WebStorm设置如何让局域网内其他设备访问
 
 应用场景：移动端访问测试、其他人访问你本机页面
 
