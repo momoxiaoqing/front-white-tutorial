@@ -2,6 +2,8 @@
 
 1、常用编辑器有WebStorm、Sublime、VS Code等，推荐WebStorm，因为功能比较强大，配置少。
 
+2、安装：[WebStorm官方下载地址](https://www.jetbrains.com/webstorm/)
+
 3、WebStorm快捷键
 
 * tab键的使用；
