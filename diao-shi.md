@@ -19,11 +19,9 @@
 
 具体方法： [https://blog.csdn.net/u014702332/article/details/70256153](https://blog.csdn.net/u014702332/article/details/70256153)
 
-
-
 ### 二、浏览器
 
-所有浏览器都可以调试，推荐Chrome
+所有浏览器都可以调试，F12即可调出控制台，推荐Chrome
 
 IE仿真模式可以模拟调试IE5-11
 
