@@ -6,7 +6,7 @@
 * ID选择器：\#id
 * 类选择器：.class
 * 元素选择器：div
-* 属性选择器：div\[lang\|="zh"\]
+* 属性选择器：input\[type='radio'\]
 * 子选择器：div&gt;p
 * 后代选择器：div p
 
