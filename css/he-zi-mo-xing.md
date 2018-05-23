@@ -16,3 +16,5 @@ W3C标准盒子模型：元素宽度=content.width+padding+border    高度类�
 
 IE标准盒子模型：元素宽度=content.width （content.width包含padding+border）
 
+2、块元素的margin上下会兼并
+
