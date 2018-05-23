@@ -10,6 +10,10 @@
 
 ![](/assets/boxmodel.png)
 
+
+
+1、W3C标准盒子模型 VS  IE标准盒子模型
+
 W3C标准盒子模型：元素宽度=content.width+padding+border    高度类似
 
 IE标准盒子模型：元素宽度=content.width （content.width包含padding+border）
