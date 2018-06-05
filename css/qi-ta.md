@@ -15,15 +15,25 @@
 
 * 水平居中：
 
-        设置width;
+  ```
+    width：100px; //设置宽度
 
-        margin: auto;
+    margin: auto;
+  ```
 
 * 垂直居中：设置marign
 
 2、行内元素
 
 * 水平居中：
+
+父元素：text-align:center;
+
+* chuiz
+
+```
+
+```
 
 
 
