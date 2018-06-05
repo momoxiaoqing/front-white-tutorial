@@ -25,11 +25,9 @@
 
 2、行内元素
 
-* 水平居中：
+* 水平居中：父元素：text-align:center;
 
-父元素：text-align:center;
-
-* chuiz
+* 垂直居中：设置padding或者line-height
 
 ```
 
