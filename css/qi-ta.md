@@ -29,9 +29,29 @@
 
 * 垂直居中：设置padding或者line-height
 
-
-
 ### 三、媒体查询
 
+根据当前设备的屏幕大小决定是否显示某些样式（本人自话，不一定科学准确）
 
+&lt;!-- link元素中的CSS媒体查询 --&gt;
+
+&lt;link rel="stylesheet" media="\(max-width: 800px\)" href="example.css" /&gt;
+
+
+
+&lt;!-- 样式表中的CSS媒体查询 --&gt;
+
+&lt;style&gt;
+
+@media \(max-width: 600px\) {
+
+  .facet\_sidebar {
+
+    display: none;
+
+  }
+
+}
+
+&lt;/style&gt;
 
