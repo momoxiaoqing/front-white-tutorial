@@ -6,6 +6,7 @@ JavaScript 是一种编程语言，允许你创建动态更新的内容，控制
 
 * [变量](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/First_steps/Variables)
 * [运算符](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/First_steps/Math)
+* 函数[https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Building\_blocks/Functions](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Building_blocks/Functions)
 
 ### 三、基本类型
 
@@ -14,6 +15,7 @@ JavaScript 是一种编程语言，允许你创建动态更新的内容，控制
 * String（字符串）
 
 * Boolean（布尔）
+
 * Symbol（符号）（第六版新增）
 * Object（对象）
   * Function（函数）
@@ -23,7 +25,11 @@ JavaScript 是一种编程语言，允许你创建动态更新的内容，控制
 * Null（空）
 * Undefined（未定义）
 
-### 三、
+详情参考[MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+### 三、作用域
+
+
 
 
 
