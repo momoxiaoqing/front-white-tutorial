@@ -18,3 +18,5 @@ IE标准盒子模型：元素宽度=content.width （content.width包含padding+
 
 2、块元素的margin上下会兼并
 
+![](/assets/小练习 .png)
+
