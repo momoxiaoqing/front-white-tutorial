@@ -57,9 +57,5 @@ display: none;
 
 ### 四、bootstrap
 
-详情查阅[官网](http://v3.bootcss.com/css/#type)
-
-
-
-
+详情查阅[官网](http://v3.bootcss.com/css/)
 
