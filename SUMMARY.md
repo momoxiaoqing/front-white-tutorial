@@ -11,7 +11,7 @@
 * [js](js.md)
   * [js基础](js/jsji-chu.md)
   * DOM
-  * jQuery
+  * [jQuery](js/jquery.md)
   * [echarts简单介绍](js/echartsjian-dan-jie-shao.md)
 * [经验分享](jing-yan-fen-xiang.md)
 * [常用网站](chang-yong-wang-zhan.md)
