@@ -61,7 +61,9 @@ display: none;
 
 ### 五、小 练习：
 
-试着完成以下页面：![](/assets/小练习 .png)
+试着完成以下页面：
+
+![](/assets/小练习 .png)
 
 实现可参考[demo](https://test.idx365.com/practice/css.html)
 
