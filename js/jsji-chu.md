@@ -20,16 +20,38 @@ JavaScript 是一种编程语言，允许你创建动态更新的内容，控制
 * Symbol（符号）（第六版新增）
 
 * Object（对象）
+
   * Function（函数）
   * Array（数组）
   * Date（日期）
   * RegExp（正则表达式）
+
 * Null（空）
 * Undefined（未定义）
 
 详情参考[MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-### 三、作用域
+### 三、基础语法
+
+1、条件：
+
+```
+if...else
+```
+
+2、循环：
+
+```
+for(var i=0;i<10;i++){
+  // do something
+}
+```
+
+
+
+
+
+
 
 
 
