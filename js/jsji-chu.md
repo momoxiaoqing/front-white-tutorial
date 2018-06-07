@@ -44,7 +44,16 @@ if...else
 
 ```
 for(var i=0;i<10;i++){
-  // do something
+   // do something
+}
+
+```
+
+```
+var n=0;
+while(n<10){
+   // do something
+   n++;
 }
 ```
 
