@@ -1,4 +1,4 @@
-js基础
+[js基础](/js/jsji-chu.md)
 
 DOM
 

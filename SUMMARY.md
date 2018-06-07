@@ -10,7 +10,7 @@
   * [其他](css/qi-ta.md)
 * [js](js.md)
   * [js基础](js/jsji-chu.md)
-  * DOM
+  * [DOM](js/dom.md)
   * [jQuery](js/jquery.md)
   * [echarts简单介绍](js/echartsjian-dan-jie-shao.md)
 * [经验分享](jing-yan-fen-xiang.md)
