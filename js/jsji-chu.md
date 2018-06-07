@@ -27,6 +27,7 @@ JavaScript 是一种编程语言，允许你创建动态更新的内容，控制
   * RegExp（正则表达式）
 
 * Null（空）
+
 * Undefined（未定义）
 
 详情参考[MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -47,11 +48,14 @@ for(var i=0;i<10;i++){
 }
 ```
 
+3、函数
 
-
-
-
-
+```
+function test(params){
+    // do something
+    //return something
+}
+```
 
 
 
